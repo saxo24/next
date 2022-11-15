@@ -1,0 +1,13 @@
+.btn{
+    border: 2px solid red;
+    padding: 15px;
+}
+.primary{
+    
+    background-color: aqua;
+    
+}
+.secondary{
+
+    background-color: antiquewhite;
+}
